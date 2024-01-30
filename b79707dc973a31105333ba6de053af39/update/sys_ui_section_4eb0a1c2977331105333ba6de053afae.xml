@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Core" section_id="4eb0a1c2977331105333ba6de053afae" sys_domain="global" table="x_1240587_exam_spa_exam_record" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>questions_in_core</element>
+            <position>0</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-19 06:22:26</sys_created_on>
+            <sys_id>deb0e1c2977331105333ba6de053af29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core" display_value="Core" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">4eb0a1c2977331105333ba6de053afae</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-19 06:22:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attempted_in_core</element>
+            <position>1</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-19 06:22:26</sys_created_on>
+            <sys_id>d2b0e1c2977331105333ba6de053af2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core" display_value="Core" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">4eb0a1c2977331105333ba6de053afae</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-19 06:22:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>not_attempted_in_core</element>
+            <position>2</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-19 06:22:26</sys_created_on>
+            <sys_id>d6b0e1c2977331105333ba6de053af2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core" display_value="Core" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">4eb0a1c2977331105333ba6de053afae</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-19 06:22:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>correct_in_core</element>
+            <position>3</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-19 06:22:26</sys_created_on>
+            <sys_id>dab0e1c2977331105333ba6de053af2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core" display_value="Core" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">4eb0a1c2977331105333ba6de053afae</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-19 06:22:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incorrect_in_core</element>
+            <position>4</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-19 06:22:26</sys_created_on>
+            <sys_id>deb0e1c2977331105333ba6de053af2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core" display_value="Core" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">4eb0a1c2977331105333ba6de053afae</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-19 06:22:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>marks_in_core</element>
+            <position>5</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-19 06:22:26</sys_created_on>
+            <sys_id>d2b0e1c2977331105333ba6de053af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Core" display_value="Core" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">4eb0a1c2977331105333ba6de053afae</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-19 06:22:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Core</caption>
+            <header>false</header>
+            <name>x_1240587_exam_spa_exam_record</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-19 06:22:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4eb0a1c2977331105333ba6de053afae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1240587_exam_spa_exam_record</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+            <sys_update_name>sys_ui_section_4eb0a1c2977331105333ba6de053afae</sys_update_name>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-19 06:22:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

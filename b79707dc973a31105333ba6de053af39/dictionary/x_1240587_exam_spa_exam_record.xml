@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" db_object_id="94cac758977a31105333ba6de053afaf" label="Exam Record" max_length="40" name="x_1240587_exam_spa_exam_record" type="collection">
+        <element label="Aptitude section Needed" max_length="40" name="aptitude_section_needed" type="boolean"/>
+        <element label="Total Questions in Aptitude" max_length="40" name="aptitude_total_questions" type="integer"/>
+        <element label="Attach Score card" max_length="40" name="attach_score_card" type="file_attachment"/>
+        <element label="Attempted in Aptitude" max_length="40" name="attempted_in_aptitude" type="integer"/>
+        <element label="Attempted in Awareness" max_length="40" name="attempted_in_awareness" type="integer"/>
+        <element label="Attempted in Core" max_length="40" name="attempted_in_core" type="integer"/>
+        <element label="Attempted in English" max_length="40" name="attempted_in_english" type="integer"/>
+        <element label="Attempted in Others" max_length="40" name="attempted_in_others" type="integer"/>
+        <element label="Attempted in Reasoning" max_length="40" name="attempted_in_reasoning" type="integer"/>
+        <element label="Attempted Questions" mandatory="true" max_length="40" name="attempted_questions" type="integer"/>
+        <element label="Awareness Section Needed" max_length="40" name="awareness_section_needed" type="boolean"/>
+        <element label="Core Section Needed" max_length="40" name="core_section_needed" type="boolean"/>
+        <element label="Correct Answer Score" mandatory="true" max_length="15" name="correct_answer_score" type="decimal"/>
+        <element label="Correct in Aptitude" max_length="40" name="correct_in_aptitude" type="integer"/>
+        <element label="Correct in Awareness" max_length="40" name="correct_in_awareness" type="integer"/>
+        <element label="Correct in Core" max_length="40" name="correct_in_core" type="integer"/>
+        <element label="Correct in English" max_length="40" name="correct_in_english" type="integer"/>
+        <element label="Correct in Others" max_length="40" name="correct_in_others" type="integer"/>
+        <element label="Correct in Reasoning " max_length="40" name="correct_in_reasoning" type="integer"/>
+        <element label="Correct Questions" mandatory="true" max_length="40" name="correct_questions" type="integer"/>
+        <element label="Cut Off" max_length="20" name="cut_off" type="decimal"/>
+        <element label="English Section Needed" max_length="40" name="english_section_needed" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Exam Name" mandatory="true" max_length="40" name="exam_name" type="string"/>
+        <element choice="1" label="Exam State" mandatory="true" max_length="40" name="exam_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Need to Write Exam" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Exam Taken" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Key Released" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Result Declared" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Score Card Released" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Complete" sequence="5" value="6"/>
+            </choice>
+        </element>
+        <element label="Final Score" max_length="15" name="final_score" type="decimal"/>
+        <element label="Incorrect in Aptitude" max_length="40" name="incorrect_in_aptitude" type="integer"/>
+        <element label="Incorrect in Awareness" max_length="40" name="incorrect_in_awareness" type="integer"/>
+        <element label="Incorrect in Core" max_length="40" name="incorrect_in_core" type="integer"/>
+        <element label="Incorrect in English" max_length="40" name="incorrect_in_english" type="integer"/>
+        <element label="Incorrect in Others" max_length="40" name="incorrect_in_others" type="integer"/>
+        <element label="Incorrect in Reasoning " max_length="40" name="incorrect_in_reasoning" type="integer"/>
+        <element label="Incorrect Questions" mandatory="true" max_length="40" name="incorrect_questions" type="integer"/>
+        <element label="Key Released" max_length="40" name="key_released" type="boolean"/>
+        <element label="Marks in Aptitude" max_length="20" name="marks_in_aptitude" type="decimal"/>
+        <element label="Marks in Awareness" max_length="20" name="marks_in_awareness" type="decimal"/>
+        <element label="Marks in Core" max_length="20" name="marks_in_core" type="decimal"/>
+        <element label="Marks in English" max_length="20" name="marks_in_english" type="decimal"/>
+        <element label="Marks in Reasoning" max_length="20" name="marks_in_reasoning" type="decimal"/>
+        <element label="Negative Score" mandatory="true" max_length="15" name="negative_score" type="decimal"/>
+        <element label="Not Attempted in Aptitude" max_length="40" name="not_attempted_in_aptitude" type="integer"/>
+        <element label="Not Attempted in Awareness" max_length="40" name="not_attempted_in_awareness" type="integer"/>
+        <element label="Not Attempted in Core" max_length="40" name="not_attempted_in_core" type="integer"/>
+        <element label="Not Attempted in English" max_length="40" name="not_attempted_in_english" type="integer"/>
+        <element label="Not Attempted in Others" max_length="40" name="not_attempted_in_others" type="integer"/>
+        <element label="Not Attempted in Reasoning" max_length="40" name="not_attempted_in_reasoning" type="integer"/>
+        <element label="Not Attempted Questions" mandatory="true" max_length="40" name="not_attempted_questions" type="integer"/>
+        <element label="Other Marks" max_length="20" name="other_marks" type="decimal"/>
+        <element label="Other Questions (Total)" max_length="40" name="other_questions_total" type="integer"/>
+        <element label="Other Section" max_length="40" name="other_section" type="boolean"/>
+        <element label="Questions in Awareness " max_length="40" name="questions_in_awareness" type="integer"/>
+        <element label="Total Questions in Core" max_length="40" name="questions_in_core" type="integer"/>
+        <element label="Total Questions in English" max_length="40" name="questions_in_english" type="integer"/>
+        <element label="Questions in Reasoning" max_length="40" name="questions_in_reasoning" type="integer"/>
+        <element label="Reasoning Section Needed" max_length="40" name="reasoning_section_needed" type="boolean"/>
+        <element label="Result Declared" max_length="40" name="result_declared" type="boolean"/>
+        <element label="Score Card Released" max_length="40" name="score_card_released" type="boolean"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Total Marks" mandatory="true" max_length="15" name="total_marks" type="decimal"/>
+        <element label="Total Questions" mandatory="true" max_length="40" name="total_questions" type="integer"/>
+        <element label="Total Score" max_length="15" name="total_score" type="decimal"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

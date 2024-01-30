@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>To update tags on exam record</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>custom.exam.tags</name>
+        <read_roles>admin</read_roles>
+        <suffix>custom.exam.tags</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+        <sys_created_on>2024-01-20 13:01:30</sys_created_on>
+        <sys_id>dee40c6a977b71105333ba6de053afe9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>custom.exam.tags</sys_name>
+        <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+        <sys_update_name>sys_properties_dee40c6a977b71105333ba6de053afe9</sys_update_name>
+        <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+        <sys_updated_on>2024-01-26 11:47:49</sys_updated_on>
+        <type>string</type>
+        <value>{"Selected":"d08bea16973771105333ba6de053afbb","Not_selected":"137cea56973771105333ba6de053af55","pending_result":"66dcee56973771105333ba6de053af35"}</value>
+        <write_roles>admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=dee40c6a977b71105333ba6de053afe9"/>
+</record_update>

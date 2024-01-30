@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>incorrect_in_core</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+        <sys_created_on>2024-01-20 05:52:46</sys_created_on>
+        <sys_id>ae736a1e97f371105333ba6de053afec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>incorrect_in_core</sys_name>
+        <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ae736a1e97f371105333ba6de053afec</sys_update_name>
+        <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+        <sys_updated_on>2024-01-20 05:52:46</sys_updated_on>
+        <table>x_1240587_exam_spa_exam_record</table>
+        <ui_policy display_value="Show Core section when Needed">69e22946977331105333ba6de053af0b</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
