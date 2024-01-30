@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Exam Status" section_id="76cbfe26973231105333ba6de053af82" sys_domain="global" table="x_1240587_exam_spa_exam_record" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>key_released</element>
+            <position>0</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2023-12-02 09:14:29</sys_created_on>
+            <sys_id>7acbfe26973231105333ba6de053afe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exam Status" display_value="Exam Status" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">76cbfe26973231105333ba6de053af82</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2023-12-02 09:14:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>result_declared</element>
+            <position>1</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2023-12-02 09:14:29</sys_created_on>
+            <sys_id>facbfe26973231105333ba6de053afe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exam Status" display_value="Exam Status" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">76cbfe26973231105333ba6de053af82</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2023-12-02 09:14:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>score_card_released</element>
+            <position>2</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2023-12-02 09:14:29</sys_created_on>
+            <sys_id>7ecbfe26973231105333ba6de053afe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exam Status" display_value="Exam Status" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">76cbfe26973231105333ba6de053af82</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2023-12-02 09:14:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attach_score_card</element>
+            <position>3</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2023-12-02 09:14:29</sys_created_on>
+            <sys_id>fecbfe26973231105333ba6de053afe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exam Status" display_value="Exam Status" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">76cbfe26973231105333ba6de053af82</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2023-12-02 09:14:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Exam Status</caption>
+            <header>false</header>
+            <name>x_1240587_exam_spa_exam_record</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2023-12-02 09:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76cbfe26973231105333ba6de053af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1240587_exam_spa_exam_record</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+            <sys_update_name>sys_ui_section_76cbfe26973231105333ba6de053af82</sys_update_name>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2023-12-02 09:14:29</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Exam Space">b79707dc973a31105333ba6de053af39</application>
+        <file_path/>
+        <instance_id>cc645d94db32391002d9172913961900</instance_id>
+        <instance_name>dev223996</instance_name>
+        <name>sys_ui_section_76cbfe26973231105333ba6de053af82</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Exam Status" section_id="76cbfe26973231105333ba6de053af82" sys_domain="global" table="x_1240587_exam_spa_exam_record" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>key_released</element><position>0</position><sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by><sys_created_on>2023-12-02 09:14:29</sys_created_on><sys_id>7acbfe26973231105333ba6de053afe8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Exam Status" display_value="Exam Status" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">76cbfe26973231105333ba6de053af82</sys_ui_section><sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by><sys_updated_on>2023-12-02 09:14:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>result_declared</element><position>1</position><sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by><sys_created_on>2023-12-02 09:14:29</sys_created_on><sys_id>facbfe26973231105333ba6de053afe8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Exam Status" display_value="Exam Status" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">76cbfe26973231105333ba6de053af82</sys_ui_section><sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by><sys_updated_on>2023-12-02 09:14:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>score_card_released</element><position>2</position><sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by><sys_created_on>2023-12-02 09:14:29</sys_created_on><sys_id>7ecbfe26973231105333ba6de053afe8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Exam Status" display_value="Exam Status" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">76cbfe26973231105333ba6de053af82</sys_ui_section><sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by><sys_updated_on>2023-12-02 09:14:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>attach_score_card</element><position>3</position><sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by><sys_created_on>2023-12-02 09:14:29</sys_created_on><sys_id>fecbfe26973231105333ba6de053afe8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Exam Status" display_value="Exam Status" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">76cbfe26973231105333ba6de053af82</sys_ui_section><sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by><sys_updated_on>2023-12-02 09:14:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Exam Status</caption><header>false</header><name>x_1240587_exam_spa_exam_record</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by><sys_created_on>2023-12-02 09:14:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>76cbfe26973231105333ba6de053af82</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1240587_exam_spa_exam_record</sys_name><sys_overrides/><sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package><sys_policy/><sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope><sys_update_name>sys_ui_section_76cbfe26973231105333ba6de053af82</sys_update_name><sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by><sys_updated_on>2023-12-02 09:14:29</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1945448034</payload_hash>
+        <record_name>Exam Record</record_name>
+        <reverted_from/>
+        <source>b39707dc973a31105333ba6de053af3b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+        <sys_created_on>2023-12-02 09:14:29</sys_created_on>
+        <sys_id>becbfe26973231105333ba6de053afea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c29ced4a70000001</sys_recorded_at>
+        <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+        <sys_updated_on>2023-12-02 09:14:29</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>36cbfe2654323110984c943a911038ea</update_guid>
+        <update_guid_history>36cbfe2654323110984c943a911038ea:-1945448034</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+        <sys_created_on>2023-12-02 09:21:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>176562924edb49708e35de85b3e8ed79</sys_id>
+        <sys_metadata>76cbfe26973231105333ba6de053af82</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Exam Status</sys_name>
+        <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+        <sys_parent display_value="Exam Record">94cac758977a31105333ba6de053afaf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+        <sys_scope_delete display_value="">65e18ff2f4154d50a8316b73a40c3cc4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_76cbfe26973231105333ba6de053af82</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_76cbfe26973231105333ba6de053af82">becbfe26973231105333ba6de053afea</sys_update_version>
+        <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+        <sys_updated_on>2023-12-02 09:21:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

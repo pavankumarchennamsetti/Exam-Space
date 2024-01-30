@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="exam_state" table="x_1240587_exam_spa_exam_record" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>exam_state</element>
+            <name>x_1240587_exam_spa_exam_record</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-20 06:39:47</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>exam_state</sys_name>
+            <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+            <sys_update_name>sys_choice_x_1240587_exam_spa_exam_record_exam_state</sys_update_name>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-20 06:39:47</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exam_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Need to Write Exam</label>
+            <language>en</language>
+            <name>x_1240587_exam_spa_exam_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-20 06:39:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-20 06:44:15</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exam_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Exam Taken</label>
+            <language>en</language>
+            <name>x_1240587_exam_spa_exam_record</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-20 06:40:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-20 06:44:15</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exam_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Key Released</label>
+            <language>en</language>
+            <name>x_1240587_exam_spa_exam_record</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-20 06:40:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-20 06:44:15</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exam_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Result Declared</label>
+            <language>en</language>
+            <name>x_1240587_exam_spa_exam_record</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-20 06:40:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-20 06:44:15</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exam_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Score Card Released</label>
+            <language>en</language>
+            <name>x_1240587_exam_spa_exam_record</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-20 06:40:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-20 06:44:15</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>exam_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Complete</label>
+            <language>en</language>
+            <name>x_1240587_exam_spa_exam_record</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-20 06:41:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-20 06:44:15</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="Exam Space">6b1b8b94977a31105333ba6de053af2f</navigation_tab>
+        <order>160</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+        <sys_created_on>2023-11-25 10:35:07</sys_created_on>
+        <sys_id>7b1b8f58977a31105333ba6de053afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_7b1b8f58977a31105333ba6de053afbc</sys_update_name>
+        <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+        <sys_updated_on>2023-11-25 10:35:07</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_1240587_exam_spa_exam_record</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Exam State change</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+	gs.addInfoMessage(current.key_released);
+	if(current.key_released){
+		current.exam_state=3;
+	}
+	current.update();
+});]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+        <sys_created_on>2024-01-20 07:04:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c8313e9a973771105333ba6de053af1d</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name>Exam State change</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+        <sys_update_name>sys_script_c8313e9a973771105333ba6de053af1d</sys_update_name>
+        <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+        <sys_updated_on>2024-01-20 12:52:38</sys_updated_on>
+        <template/>
+        <when>after</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=c8313e9a973771105333ba6de053af1d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Exam Space">b79707dc973a31105333ba6de053af39</application>
+        <file_path/>
+        <instance_id>cc645d94db32391002d9172913961900</instance_id>
+        <instance_name>dev223996</instance_name>
+        <name>sys_script_c8313e9a973771105333ba6de053af1d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;x_1240587_exam_spa_exam_record&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Exam State change&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+	gs.addInfoMessage(current.key_released);
+	if(current.key_released){
+		current.exam_state=3;
+	}
+	current.update();
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;pavankumarchennamsetti970@gmail.com&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-01-20 07:04:27&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;c8313e9a973771105333ba6de053af1d&lt;/sys_id&gt;&lt;sys_mod_count&gt;22&lt;/sys_mod_count&gt;&lt;sys_name&gt;Exam State change&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Exam Space" source="x_1240587_exam_spa"&gt;b79707dc973a31105333ba6de053af39&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Exam Space"&gt;b79707dc973a31105333ba6de053af39&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_c8313e9a973771105333ba6de053af1d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;pavankumarchennamsetti970@gmail.com&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-01-20 12:52:38&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=c8313e9a973771105333ba6de053af1d"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1160651298</payload_hash>
+        <record_name>Exam State change</record_name>
+        <reverted_from/>
+        <source>b39707dc973a31105333ba6de053af3b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+        <sys_created_on>2024-01-20 12:52:38</sys_created_on>
+        <sys_id>8ca3802a977b71105333ba6de053af06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d26ee28170000001</sys_recorded_at>
+        <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+        <sys_updated_on>2024-01-20 12:52:38</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>04a3802a577b7110d1f4d9d1371d0f06</update_guid>
+        <update_guid_history>04a3802a577b7110d1f4d9d1371d0f06:-1160651298,de63cce63a7b7110b2403fe6d036cf93:1944180269,b3234ce6307b7110e3c5298424f44dac:891529127,44f288e6977b7110714f8e695b29eb7d:-1982697517,ab0bf2568f7771102601c1a34e67a865:490928716,1bea3a92d3777110d46e6881ba51fe6d:904557265,55cab216c6777110aa970d9c0a852e2a:-734439800,405afad2ae7771109429716f90b14784:355972883,a1f9b216667771108a2b9dfde47fc9b0:1827967648,67c9be9223777110240ca96664317771:-1687644229,50c9fad26a77711075b4da13c21bbc98:-347660581,1a697a92227771109f25e78ea1ecd627:-1789982915,2ee83e92c37771107a1439290561d328:1548737814,7a987e920d7771103265386506573705:-723480994,a178ba92a9777110dc74b734e9d17ea3:1666833546,65087e52d7777110efef9a6f8d5604d0:1757608110,92b7765255777110f38e8bae1b80d813:-635390257,2d87765268777110a331610bce5e732e:271699938,f5f6765269777110f222866006ae8003:1186904932,ad96fa5e3f377110bc3aeae4815fa8d8:843702890,ddf5ba5e993771101c0323afbecd85f7:1682049501,c1853e9a3d3771104012efcf2f3440eb:1552071589,33e3ba9a3d3771104bfebd6d5ef99f18:559114157</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+        <sys_created_on>2024-01-20 12:54:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>47ef4ffcbadc4a8c93f7c406aeba8d84</sys_id>
+        <sys_metadata>c8313e9a973771105333ba6de053af1d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Exam State change</sys_name>
+        <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+        <sys_parent display_value="Exam Record">94cac758977a31105333ba6de053afaf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+        <sys_scope_delete display_value="">65e18ff2f4154d50a8316b73a40c3cc4</sys_scope_delete>
+        <sys_update_name>sys_script_c8313e9a973771105333ba6de053af1d</sys_update_name>
+        <sys_update_version display_value="sys_script_c8313e9a973771105333ba6de053af1d">8ca3802a977b71105333ba6de053af06</sys_update_version>
+        <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+        <sys_updated_on>2024-01-20 12:54:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

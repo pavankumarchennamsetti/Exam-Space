@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Exam Record)">ef1b8f58977a31105333ba6de053af98</button>
+        <item_parameter display_value="Exam Record exam_name">671b8f58977a31105333ba6de053af96</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+        <sys_created_on>2023-11-25 10:35:07</sys_created_on>
+        <sys_id>b71b8f58977a31105333ba6de053af9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>671b8f58977a31105333ba6de053af96</sys_name>
+        <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b71b8f58977a31105333ba6de053af9f</sys_update_name>
+        <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+        <sys_updated_on>2023-11-25 10:35:07</sys_updated_on>
+        <ui_parameter display_value="Exam Name">731b8f58977a31105333ba6de053af9b</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

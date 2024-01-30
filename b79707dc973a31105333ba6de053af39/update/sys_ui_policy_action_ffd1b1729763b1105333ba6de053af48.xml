@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>marks_in_aptitude</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+        <sys_created_on>2024-01-09 05:17:17</sys_created_on>
+        <sys_id>ffd1b1729763b1105333ba6de053af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>marks_in_aptitude</sys_name>
+        <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ffd1b1729763b1105333ba6de053af48</sys_update_name>
+        <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+        <sys_updated_on>2024-01-09 05:17:17</sys_updated_on>
+        <table>x_1240587_exam_spa_exam_record</table>
+        <ui_policy display_value="Show Aptitude section only when Aptitude section Needed is TRUE">f3bd2d3e9723b1105333ba6de053afc8</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

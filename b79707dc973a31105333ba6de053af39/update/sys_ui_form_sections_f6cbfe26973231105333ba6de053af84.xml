@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f6cbfe26973231105333ba6de053af84" sys_domain="global" table="x_1240587_exam_spa_exam_record" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2023-12-02 09:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fecbfe26973231105333ba6de053afd2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1240587_exam_spa_exam_record" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">f6cbfe26973231105333ba6de053af84</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">f50dcf98977a31105333ba6de053af08</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2023-12-02 09:14:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2023-12-02 09:18:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1dac7e66973231105333ba6de053afc4</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1240587_exam_spa_exam_record" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">f6cbfe26973231105333ba6de053af84</sys_ui_form>
+            <sys_ui_section caption="Aptitude" display_value="Aptitude" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">1dac7ae2973231105333ba6de053afc2</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2023-12-02 09:21:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2023-12-02 10:07:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74084fa2977231105333ba6de053af67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1240587_exam_spa_exam_record" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">f6cbfe26973231105333ba6de053af84</sys_ui_form>
+            <sys_ui_section caption="Reasoning" display_value="Reasoning" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">e4084fa2977231105333ba6de053af64</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2023-12-02 10:07:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2023-12-02 10:13:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1490b26977231105333ba6de053af6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1240587_exam_spa_exam_record" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">f6cbfe26973231105333ba6de053af84</sys_ui_form>
+            <sys_ui_section caption="General Awareness (GK)" display_value="General Awareness (GK)" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">9549c726977231105333ba6de053affb</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2023-12-02 10:13:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-19 06:22:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0eb0a1c2977331105333ba6de053afb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1240587_exam_spa_exam_record" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">f6cbfe26973231105333ba6de053af84</sys_ui_form>
+            <sys_ui_section caption="English" display_value="English" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">0ab0a1c2977331105333ba6de053afad</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-19 06:22:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-19 06:22:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12b0a1c2977331105333ba6de053afe9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1240587_exam_spa_exam_record" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">f6cbfe26973231105333ba6de053af84</sys_ui_form>
+            <sys_ui_section caption="Core" display_value="Core" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">4eb0a1c2977331105333ba6de053afae</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-19 06:22:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2024-01-19 06:22:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ab0a1c2977331105333ba6de053afed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1240587_exam_spa_exam_record" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">f6cbfe26973231105333ba6de053af84</sys_ui_form>
+            <sys_ui_section caption="Others" display_value="Others" name="x_1240587_exam_spa_exam_record" sys_domain="global" view="Default view">46b0a1c2977331105333ba6de053afaf</sys_ui_section>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2024-01-19 06:22:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1240587_exam_spa_exam_record</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>pavankumarchennamsetti970@gmail.com</sys_created_by>
+            <sys_created_on>2023-12-02 09:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6cbfe26973231105333ba6de053af84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1240587_exam_spa_exam_record</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Exam Space" source="x_1240587_exam_spa">b79707dc973a31105333ba6de053af39</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Exam Space">b79707dc973a31105333ba6de053af39</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f6cbfe26973231105333ba6de053af84</sys_update_name>
+            <sys_updated_by>pavankumarchennamsetti970@gmail.com</sys_updated_by>
+            <sys_updated_on>2023-12-02 09:14:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
